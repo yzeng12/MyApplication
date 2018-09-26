@@ -16,5 +16,7 @@ public class MainActivity extends AppCompatActivity {
         MyFirstName.setText("Yixin Zeng");
 
     }
-    
+    private void whatever(){
+        int i=1+1;
+    }
 }

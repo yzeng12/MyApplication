@@ -2,5 +2,5 @@
     <string name="app_name">Yixin's first Application</string>
     <string name="name">Yixin</string>
     <string name="register">register</string>
-    <color>android:textColor="@color/c"</color>
+
 </resources>
